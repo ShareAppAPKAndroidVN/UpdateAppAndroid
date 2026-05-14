@@ -1,0 +1,13 @@
+{
+  "Version": "4.2.7",
+  "Title": "CẬP NHẬT ỨNG DỤNG",
+  "Subtitle": "Phiên Bản:",
+  "Features": "Sửa lỗi, cải tiến tính năng",
+  "Description": "Phiên bản mới bắt buộc đã được phát hành với các tính năng bảo mật được nâng cao, hiệu năng được cải thiện và các bản sửa lỗi quan trọng.",
+  "BtnLater": "BỎ QUA",
+  "BtnUpdate": "UPDATE",
+  "Url": "https://t.me/+ohiY3fEkIyY5YTQ9",
+  "ForceUpdate": false,
+  "Reminder": "1m",      
+  "BtnTimer": 0         
+}
