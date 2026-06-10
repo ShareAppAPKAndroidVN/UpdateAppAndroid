@@ -1,0 +1,13 @@
+{
+  "Version": "99.99.99.99.99",
+  "Title": "CẬP NHẬT CÓ SẴN",
+  "Subtitle": "Phiên bản mới 2.0",
+  "Features": "Đã sửa lỗi, cải tiến tính năng,
+  "Description": "Phiên bản mới bắt buộc đã được phát hành với các tính năng bảo mật được nâng cao, hiệu năng được cải thiện và các bản sửa lỗi quan trọng.",
+  "BtnLater": "Bỏ qua",
+  "BtnUpdate": "Cập Nhât App",
+  "Url": "https://t.me/ShareAppAPKAndroidVN,
+  "ForceUpdate": false,
+  "Reminder": "24h",      
+  "BtnTimer": 0         
+}
